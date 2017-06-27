@@ -1,0 +1,9 @@
+div {
+  height: 100px;
+  width: 200px;
+  background-color: yellow;
+  border-top: 1px solid black;
+  border-bottom: 4px solid green;
+  border-right: 10px dotted pink;
+  border-left: 20px none red;
+}
